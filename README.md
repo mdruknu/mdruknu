@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdruknu
+- 👋 Hi, I’m Ruknuddin 
 - 👀 I’m interested in data science projects
 - 🌱 I’m currently learning and appling my data science knowledge
 - 💞️ I’m looking to collaborate on data science
